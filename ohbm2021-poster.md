@@ -25,6 +25,9 @@ Top: Schematic of LiMM-PCA from Martin and Govaerts, 2020 (Martin & Govaerts, 20
 ## Conclusions
 LiMM-PCA yields context specific principle components of ongoing thought that predicts functional connectivity patterns better than the original original principal components, providing more contextual detail to explain the neurocognitive relationship of the principal gradient. However, with a complex model, permutation tests will be needed to further confirm the validity of our result. There’s potential to apply LiMM-PCA to functional connectivity measures under more complex circumstances, such as dynamic connectivity during task fMRI scans.
 
+Work in progress code repository: https://github.com/htwangtw/limmpca
+
+
 ## References
 Martin, M., & Govaerts, B. (2020). LiMM‐PCA: Combining ASCA and linear mixed models to analyse high‐dimensional designed data. In Journal of Chemometrics (Vol. 34, Issue 6). https://doi.org/10.1002/cem.3232
 
